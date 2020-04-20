@@ -1,0 +1,189 @@
+{
+	"ret": true,
+	"data": {
+    "hotelInfo": [
+      {
+        "id": "01",
+        "imagUrl": "https://userimg.qunarzz.com/imgs/201908/17/C.Dwh-xgv0LOmdZKdkgi240.jpg",
+        "title": "香榭里酒店(南宁会展中心地铁站店)",
+        "score": "4.5",
+        "desc": "非常棒",
+        "count": "888",
+        "dangciText": "高档型",
+        "distance": "0.7",
+        "tag": [{
+          "tagText": "大玩卡特惠",
+          "border": "borderD"
+        },{
+          "tagText": "立即确认",
+          "border": "borderL"
+        }
+        ],
+        "describ": "地理位置非常好",
+        "price": "295"
+      },
+      {
+        "id": "02",
+        "imagUrl": "https://userimg.qunarzz.com/imgs/201905/08/C.X_k1H-dQ-PrZrmOQdi240.jpg",
+        "title": "南宁怡家酒店公寓",
+        "score": "4.7",
+        "desc": "棒极了",
+        "count": "625",
+        "distance": "0.6",
+        "tag": [{
+          "tagText": "会员折扣",
+          "border": "borderH"
+        },{
+          "tagText": "会员特权",
+          "border": "borderD"
+        }
+        ],
+        "describ": "服务态度很到位",
+        "price": "135"
+      },
+      {
+        "id": "03",
+        "imagUrl": "https://userimg.qunarzz.com/imgs/201907/14/C.QSKaggvfLm1k87-cgi240.jpg",
+        "title": "格林豪泰酒店(南宁东葛路地铁站广园路店)",
+        "score": "4.3",
+        "desc": "非常棒",
+        "count": "305",
+        "distance": "3.8",
+        "tag": [{
+          "tagText": "大玩卡特惠",
+          "border": "borderD"
+        },{
+          "tagText": "会员折扣",
+          "border": "borderH"
+        }
+        ],
+        "describ": "隔音效果好",
+        "price": "168"
+      },
+      {
+        "id": "04",
+        "imagUrl": "https://userimg.qunarzz.com/imgs/201903/03/C.sRGGeJfPKj--ZuNXfi240.jpg",
+        "title": "南宁绿城缘酒店公寓",
+        "score": "4.5",
+        "desc": "非常棒",
+        "count": "2132",
+        "distance": "0.6",
+        "tag": [{
+          "tagText": "大玩卡特惠",
+          "border": "borderD"
+        },{
+          "tagText": "会员折扣",
+          "border": "borderH"
+        }
+        ],
+        "describ": "地理位置很方便",
+        "price": "116"
+      },
+      {
+        "id": "05",
+        "imagUrl": "https://userimg.qunarzz.com/imgs/201812/15/C._M0DCiiiU3E0MGHUii240.jpg",
+        "title": "南宁永凯春晖公寓式酒店",
+        "score": "4.4",
+        "desc": "非常棒",
+        "count": "1729",
+        "distance": "0.2",
+        "tag": [{
+          "tagText": "立即确认",
+          "border": "borderL"
+        }
+        ],
+        "describ": "房价便宜",
+        "price": "272"
+      }
+    ],
+    "houseInfo": [{
+      "id": "01",
+      "imagUrl": "//himg1.qunarzz.com/imgs/201908/17/C.pXcHqYL7BOO7GLh8_76.jpg",
+      "title": "无景QQ迷你单间",
+      "descipe": [{
+        "text": "22㎡"
+      },{
+        "text": "内窗"
+      },{
+        "text": "1张1.3m单人床"
+      },{
+        "text": "有wifi"
+      },{
+        "text": "36层"
+      }
+      ],
+      "tag": [{
+        "tagText": "大玩卡特惠",
+        "border": "borderD"
+      }
+      ],
+      "price": "369"
+    },{
+      "id": "02",
+      "imagUrl": "//himg3.qunarzz.com/imgs/201909/10/C.m_bK3mcay--LpONYH76.jpg",
+      "title": "时尚单人间",
+      "descipe": [{
+        "text": "30㎡"
+      },{
+        "text": "内窗"
+      },{
+        "text": "1张1.8m单人床"
+      },{
+        "text": "有wifi"
+      },{
+        "text": "32层"
+      }
+      ],
+      "tag": [{
+        "tagText": "大玩卡特惠",
+        "border": "borderD"
+      }
+      ],
+      "price": "489"
+    },{
+      "id": "03",
+      "imagUrl": "//himg2.qunarzz.com/imgs/201812/15/C._M0DCiiiFLHtPHnsi76.jpg",
+      "title": "云景大床房",
+      "descipe": [{
+        "text": "30㎡"
+      },{
+        "text": "内窗"
+      },{
+        "text": "1张1.8m单人床"
+      },{
+        "text": "有wifi"
+      }
+      ],
+      "tag": [{
+        "tagText": "大玩卡特惠",
+        "border": "borderD"
+      }
+      ],
+      "price": "567"
+    },{
+      "id": "04",
+      "imagUrl": "//himg4.qunarzz.com/imgs/201908/18/C.biVqfuy84DsqSHose76.jpg",
+      "title": "尊享豪华大床房",
+      "descipe": [{
+        "text": "40㎡"
+      },{
+        "text": "有窗"
+      },{
+        "text": "1张1.8m单人床"
+      },{
+        "text": "有wifi"
+      },{
+        "text": "33层"
+      }
+      ],
+      "tag": [{
+        "tagText": "大玩卡特惠",
+        "border": "borderD"
+      }
+      ],
+      "price": "489"
+    }
+
+    ]
+  }
+}

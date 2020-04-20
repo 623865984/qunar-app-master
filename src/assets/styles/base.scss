@@ -1,0 +1,10 @@
+@media screen and (min-width: 500px) {
+  body,
+  .header,
+  .mint-tabbar,
+  .mint-header {
+    max-width: 500px;
+    margin: 0 auto;
+    position: relative;
+  }
+}
